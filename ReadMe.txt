@@ -1,5 +1,5 @@
 <Internet connection required to load assets>
-<Works on: Iphone SE to Samsung Galaxy S20 ULtra>
+<Works on: Iphone SE to Samsung Galaxy S20 Ultra>
 $cd vango
 
 Group Leader: Jessie A. Cudiamat Jr.
